@@ -5,6 +5,13 @@ Feedback Hub is a small web application built for a jewelry brand like **Giva** 
 The project intentionally avoids AI/ML models and focuses on **clarity, explainability, and business logic**, exactly as required in the problem statement.
 
 ---
+## Dashboard Preview
+
+### Main Dashboard View
+![Dashboard View 1](screenshots/Dashboard1.png)
+
+### Insights & Analytics View
+![Dashboard View 2](screenshots/Dashboard2.png)
 
 ## 1. Problem Overview
 
