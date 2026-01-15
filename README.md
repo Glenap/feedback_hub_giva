@@ -7,11 +7,8 @@ The project intentionally avoids AI/ML models and focuses on **clarity, explaina
 ---
 ## Dashboard Preview
 
-### Main Dashboard View
-![Dashboard View 1](screenshots/Dashboard1.png)
+![Feedback Hub Dashboard](screenshots/Dashboard.png)
 
-### Insights & Analytics View
-![Dashboard View 2](screenshots/Dashboard2.png)
 
 ## 1. Problem Overview
 
