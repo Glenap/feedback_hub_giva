@@ -170,19 +170,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 11. Deployment
-
-The application is deployed on **Render** using:
-- Gunicorn as the production server
-- GitHub-based continuous deployment
-- Environment-based port configuration
-
-Live demo (example):  
-https://feedback-hub-giva.onrender.com  
-
----
-
-## 12. Design Decisions
+## 11. Design Decisions
 
 - Rule-based sentiment chosen for transparency
 - Predefined products to focus on logic
@@ -191,7 +179,7 @@ https://feedback-hub-giva.onrender.com
 
 ---
 
-## 13. Future Improvements
+## 12. Future Improvements
 
 - Authentication
 - Pagination and search
@@ -200,7 +188,7 @@ https://feedback-hub-giva.onrender.com
 
 ---
 
-## 14. Key Takeaway
+## 13. Key Takeaway
 
 Feedback Hub demonstrates how **simple, explainable logic** can extract meaningful business insights from customer reviews without complex AI models.
 
